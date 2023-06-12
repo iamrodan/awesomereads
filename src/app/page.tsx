@@ -16,7 +16,6 @@ export default function Home() {
             />
             <div>
               <h1 className="text-5xl font-bold">
-                {" "}
                 <span className="font-light">awesome</span>reads
               </h1>
               <p className="py-6">
