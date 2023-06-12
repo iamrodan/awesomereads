@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Awesome Reads",
+  title: "Awesomereads | The Modern Book Tracking Web App",
   description: "Created by Rodan Ramdam",
 };
 
