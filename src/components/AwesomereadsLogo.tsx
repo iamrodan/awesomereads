@@ -6,8 +6,8 @@ export default function AwesomereadsLogo() {
       <Image
         src="/images/app-logo.png"
         alt="logo of awesomereads"
-        width={16}
-        height={16}
+        width={24}
+        height={24}
       />
       <span className="font-light ml-1">awesome</span>reads
     </div>
